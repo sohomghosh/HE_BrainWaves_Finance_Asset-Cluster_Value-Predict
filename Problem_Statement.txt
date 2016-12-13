@@ -1,0 +1,27 @@
+Description : Dataset contains extensive data about games
+released on di†erent platforms over the last twenty years.
+
+[Problem Statement]
+Analyze and list the platforms with the most "Editor's Choice"
+awards? Does number of games by a platform in a given year
+have any e†ect on these awards? What is Macintosh's average
+award count? What is the optimal month for releasing a game?
+Analyze the percentage growth in the gaming industry over the
+years.
+Use the data to build a predictive model to predict which games
+will get "Editor's Choice" awards in a given year? What attributes
+are the strongest predictors of whether a game will get an award?
+Please explain your analysis in simple english. Plot graphs if you
+have to visualize your analysis. Provide outputs from models that
+you generate (e.g. coe†cients).
+
+[Ideal Stack]
+-- Python, R, Scala.
+-- Scala, Google Big Data or Cloud Engine.
+
+[Deliverables]
+-- Steps to reproduce the result.
+-- Source Code, Executable(If any), Deployment Instructions.
+-- Technology, tools and language used.
+-- Answer (Graphs, Numbers and/or plain-text output).
+-- Explain the †ndings on Trends, Visualisation and/or Data point
